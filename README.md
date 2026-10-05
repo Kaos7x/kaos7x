@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Troy 👋
 
-<!--
-**Kaos7x/kaos7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering student based in South Africa
 
-Here are some ideas to get you started:
+I enjoy coding, building things, and learning new technologies along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- 🐍 Python projects
+- 🌐 Web development
+- 🗄️ SQL & databases
+- ☁️ Exploring different areas of software engineering
+
+Always learning, always building, and occasionally wondering why my code worked 5 minutes ago. 😅
+
+Thanks for stopping by! 🚀
