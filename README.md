@@ -11,5 +11,3 @@ Currently working on:
 - ☁️ Exploring different areas of software engineering
 
 Always learning, always building, and occasionally wondering why my code worked 5 minutes ago. 😅
-
-Thanks for stopping by! 🚀
