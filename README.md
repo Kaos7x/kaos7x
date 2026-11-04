@@ -14,4 +14,4 @@ Always learning, always building, and occasionally wondering why my code worked 
 
 ### 🚀 Featured Projects
 
-- [ImageForge](YOUR_IMAGEFORGE_URL) – Python desktop application for AI-powered image processing.
+- [ImageForge]((https://github.com/Kaos7x/ImageForge)) – Python desktop application for AI-powered image processing.
