@@ -11,3 +11,7 @@ Currently working on:
 - ☁️ Exploring different areas of software engineering
 
 Always learning, always building, and occasionally wondering why my code worked 5 minutes ago. 😅
+
+### 🚀 Featured Projects
+
+- [ImageForge](YOUR_IMAGEFORGE_URL) – Python desktop application for AI-powered image processing.
