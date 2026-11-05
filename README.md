@@ -25,4 +25,4 @@ A Python desktop application for image processing, background removal and batch 
 - Designed a modular architecture separating UI, processing logic and background workers
 - Built with **Python, PyQt6, OpenCV, Pillow, NumPy, ONNX Runtime**
 
-[→ View Repository](https://github.com/Kaos7x/ImageForge) – Python desktop application for AI-powered image processing.
+[→ View Repository](https://github.com/Kaos7x/ImageForge)
